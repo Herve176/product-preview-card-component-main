@@ -24,7 +24,7 @@ body {
 /* Image styles */
 img {
     float: left;
-    width: 95%; /* Take half the width by default */
+    width: 100%; /* Take half the width by default */
     height: auto;
     object-fit: cover; /* Ensure the image covers the available space */
 }
